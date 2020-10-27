@@ -1,0 +1,61 @@
+.w100 {
+  width: 100%;
+}
+.h100 {
+  height: 100%;
+}
+
+.padding {
+  padding: 12px;
+}
+
+.padding-tb {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.padding-top {
+  padding-top: 12px;
+}
+
+.margin-top {
+  margin-top: 12px;
+}
+
+.margin-tb {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+button {
+  outline-width: 0;
+  margin-right: 12px;
+  padding: 6px;
+  border: 0;
+  border-radius: 5px;
+}
+
+.primary {
+  background: #66b1ff;
+  color: #fff;
+}
+
+.success {
+  background: #67c23a;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-sub {
+  flex: 1;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
